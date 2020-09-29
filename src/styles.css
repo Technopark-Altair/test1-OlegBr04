@@ -19,6 +19,9 @@ div{
     left: 500px;
  
 }
+@media screen and (max-width:500px){
+
+}
 /* p{
     width: 1000px; 
     height: 50px;  
