@@ -19,8 +19,13 @@ div{
     left: 500px;
  
 }
-@media screen and (max-width:500px){
-
+@media screen and (max-width:500px) and (max-height:500px){
+    div{
+        width: 400px; 
+        height: 10px;
+        /*border:1px solid darkslateblue;*/
+        position: relative;
+        left: 250px;}
 }
 /* p{
     width: 1000px; 
